@@ -23,6 +23,6 @@ I am deeply passionate about leveraging the intersection of healthcare, software
 ## Currently Learning
 
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" />
-<img align="left" alt="GO" width="26px" src="./Go-Logo_Aqua.png" />
+<img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/rfyiamcool/golang_logo/master/png/golang.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
 
